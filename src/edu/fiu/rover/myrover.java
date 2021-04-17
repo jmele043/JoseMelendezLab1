@@ -9,7 +9,10 @@ package edu.fiu.rover;
  */
 public class myrover {
 
-	private static Object leavedockstation();
+	private static Object leavedockstation() {
+		return null;
+	}
+
 
 	public static void missionacknoledged() {
 		// TODO Auto-generated method stub

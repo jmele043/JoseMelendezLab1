@@ -16,7 +16,7 @@ public class Trexrover implements SelfCheckCapable {
 	Trexrover myNasa;
 	
 	public Trexrover() {
-		myNasa = new Trexrover();
+		
 	}
 	@Override 
 	public String getComponentName() {
